@@ -8,6 +8,7 @@ function getSquare(h, w) {
 console.log(getSquare(3, 4));
 
 console.log('----------1----------');
+// 1.
 
 // 2.
 console.log('----------2----------');
@@ -21,6 +22,7 @@ function getСircumference(d) {
 console.log(getСircumference(4));
 
 console.log('----------2----------');
+// 2.
 
 // 3.
 console.log('----------3----------');
@@ -34,6 +36,7 @@ function getVolume(h, d) {
 console.log(getVolume(4, 6));
 
 console.log('----------3----------');
+// 3.
 
 // 4.
 console.log('----------4----------');
@@ -49,6 +52,7 @@ function calcCurrency(currency, sum) {
 console.log(calcCurrency('usd', 6));
 
 console.log('----------4----------');
+// 4.
 
 // 5.
 console.log('----------5----------');
@@ -72,8 +76,9 @@ function divisibleBy5(from, to) {
 console.log(divisibleBy5(2, 6));
 
 console.log('----------5----------');
-
 // 5.
+
+// 6.
 console.log('----------6----------');
 
 function fizzBuzz() {
@@ -97,3 +102,4 @@ function fizzBuzz() {
 console.log(fizzBuzz());
 
 console.log('----------6----------');
+// 6.
